@@ -1,0 +1,27 @@
+body {
+    background-color: purple;
+  }
+ body {
+    border:10px green solid;
+  }
+ h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Irish Grover', cursive;
+    text-shadow: 
+                -2px -2px 0 orange,
+                2px -2px 0 orange,
+                -2px 2px 0 orange,
+                1px 1px 0 orange; 
+        }
+ .custom-text {
+          font-size: 24px;
+          color: #333; /* Text color */
+      }
+
+p {
+font-family: 'Irish Grover', cursive;
+font-size: 20px;
+}      
+
+      
